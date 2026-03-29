@@ -1,4 +1,4 @@
-# 💸 Money Mentor – AI-Powered Financial Agent
+#  Money Mentor – AI-Powered Financial Agent
 
 **Money Mentor** is a personalized AI financial assistant designed to help users make smarter money decisions. It answers financial questions, provides budgeting tips, and explains investment concepts—all through natural language conversations. Ideal for students and young adults seeking accessible, trustworthy financial guidance.
 
