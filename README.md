@@ -4,17 +4,17 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🧠 Uses the **ReAct agent pattern** for reasoning and action-taking
-- ⚡ Fast and reliable responses powered by **Groq’s LLaMA 3**
-- 🔎 Real-time search via **Tavily API** for up-to-date information
-- 🖥 User-friendly interface built with **Streamlit**
-- 📄 Automatically saves conversation history as `.txt` files
+- Uses the **ReAct agent pattern** for reasoning and action-taking
+-  Fast and reliable responses powered by **Groq’s LLaMA 3**
+-  Real-time search via **Tavily API** for up-to-date information
+-  User-friendly interface built with **Streamlit**
+-  Automatically saves conversation history as `.txt` files
 
 ---
 
-## 🧠 How the Agent Works
+##  How the Agent Works
 
 Money Mentor follows the **ReAct (Reason + Act)** agent pattern, where the AI agent:
 
@@ -28,7 +28,7 @@ This cycle allows the agent to combine both **tool usage (action)** and **LLM re
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python** – Core language for development
 - **LangGraph** – Framework to orchestrate agent logic
@@ -39,7 +39,7 @@ This cycle allows the agent to combine both **tool usage (action)** and **LLM re
 
 ---
 
-## 📦 Required Dependencies
+## Required Dependencies
 
 Included in `requirements.txt`:
 
